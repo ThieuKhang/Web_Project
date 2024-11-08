@@ -1,3 +1,4 @@
+package Lak;
 public class Main {
     public static void main(String[] args) {
         // Create a new Person object
