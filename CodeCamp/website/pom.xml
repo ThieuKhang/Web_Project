@@ -8,11 +8,12 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<groupId>com.khang.notes</groupId>
+	<artifactId>mindmap-notes</artifactId>
+	<version>1.0.0</version>
+	<name>MindMap Notes</name>
+	<description>Note-taking website for creating mind maps in Tony Buzan's style</description>
+	
 	<url/>
 	<licenses>
 		<license/>
